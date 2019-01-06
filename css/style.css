@@ -8,8 +8,8 @@ html{
 	height: 100vh;
 }
 
-.encabezado{
-	background: rgba(0,0,0,0.48);
+.encabezado .navbar-fixed-top{
+	background: rgba(0,0,0,0.60);
 }
 
 .navbar .navbar-brand{
@@ -35,3 +35,18 @@ html{
 #menuPrincipal{
 	clear: both;
 }
+
+.texto-bienvenido{
+	color: #fff;
+	margin-top: 6rem;
+}
+
+.quienes-somos{
+	background: #0a0acc;
+	color: #FFF;
+}
+
+
+/**
+Icon made by Freepik from www.flaticon.com 
+*/
