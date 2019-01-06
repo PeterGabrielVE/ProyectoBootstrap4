@@ -1,0 +1,37 @@
+/*Estilo bloque bienvenidos */
+html{
+	font-size: 15px;
+}
+.bienvenidos{
+	background: url("../images/images1.jpg");
+	background-size: cover;
+	height: 100vh;
+}
+
+.encabezado{
+	background: rgba(0,0,0,0.48);
+}
+
+.navbar .navbar-brand{
+	color: rgb(253,253,253);
+	font-size: 1.3rem;
+	text-transform: uppercase;
+}
+
+.nav .navbar .navbar-expand-lg .navbar-light {
+    color: white;
+    text-transform: uppercase;
+}
+
+.navbar-light .navbar-toggler {
+
+}
+
+
+.navbar .navbar-brand:hover,  .navbar-ligth .navbar-brand:focus{
+	color: rgba(255,255,255,0.98);
+}
+
+#menuPrincipal{
+	clear: both;
+}
